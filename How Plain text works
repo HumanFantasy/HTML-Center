@@ -1,0 +1,5 @@
+This is plain text. Not code alright?
+HTML has to be one of the most basic languages, adding plain text will make this text show up. 
+However, to declare a file HTML, use <!DOCTYPE HTML>
+Even if you declare a file HTML, you can still use plain text.
+If you want to declare a file HTML, you must use the command at the beggining. 
