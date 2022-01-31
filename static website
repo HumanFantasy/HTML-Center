@@ -4,4 +4,9 @@
 
 <h1> Static Website </h1>
 <h2> This is a static website </h2> 
-<p> Static websites are websites without much functionality. Interactive websites usually require JS. Using pur CSS and HTML usually cannot offer an interactive website. </p>
+<p> Static websites are websites without much functionality. Interactive websites usually require JS. Using pure CSS and HTML usually cannot offer an interactive website. </p>
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlotIRWQFNcUbF64DlHU2vXr6Cm1tzhl82uQ&usqp=CAU" alt="Static website">
+
+<h3> The following command was an image command, it will refer to the source and show the image </h3>
+
